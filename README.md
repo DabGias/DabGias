@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DabGias;
 - 👀 I’m interested in Programming;
-- 🌱 I’m currently learning Python, Java, HTML/CSS/JavaScript;
+- 🌱 I’m currently learning Python, Java, HTML/CSS/JavaScript, OracleSQL;
