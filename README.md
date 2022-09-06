@@ -9,8 +9,8 @@
 ## 📊 My stats
 
 <div align="center">
-	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=DabGias&theme=onedark&show_icons=true" />
-	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabGias&theme=onedark&layout=compact" />
+	<img width="70%" height="200em" src="https://github-readme-stats.vercel.app/api?username=DabGias&theme=onedark&show_icons=true" />
+	<img width="30%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DabGias&theme=onedark&layout=compact" />
 </div>
 
 ## 👨‍💻 My tech stack
