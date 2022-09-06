@@ -1,4 +1,4 @@
-# Welcome to my profile
+<p style="font-size: 32px" align="center">Welcome to my profile</p>
 
 ## 📖 About me
 
