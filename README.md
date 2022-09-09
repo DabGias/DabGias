@@ -5,6 +5,7 @@
 - 👋 Hi, I’m Gabriel Dias;
 - 👀 I’m interested in Programming;
 - 🌱 I’m currently learning **Python, Java, HTML/CSS/JavaScript, React, OracleSQL**;
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gabrielfurlaneti">LinkedIn</a>;
 
 ## 📊 My stats
 
