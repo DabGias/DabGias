@@ -16,9 +16,9 @@
 
 ## 👨‍💻 My tech stack
 
-- 🐍 Python: Pandas, Seaborn, Sklearn and matplotlib.
-- ☕ Java: Spring, JavaFX, JPA and JDBC;
-- 🐋 Docker;
-- 🐧 Linux: Ubuntu, Oracle Linux and Mint;
-- ⚛ React and React Native;
-- 🔋 DataBases: OracleSQL, MySQL and MariaDB;
+- 🐍 Python: **Pandas, Seaborn, Sklearn and matplotlib**.
+- ☕ Java: **Spring, JavaFX, JPA and JDBC**;
+- 🐋 **Docker**;
+- 🐧 Linux: **Ubuntu, Oracle Linux and Mint**;
+- ⚛ **React and React Native**;
+- 🔋 DataBases: **OracleSQL, MySQL and MariaDB**;
