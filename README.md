@@ -25,4 +25,5 @@
 
 <div class="tenor-gif-embed" data-postid="22708069" data-share-method="host" data-aspect-ratio="0.85625" data-width="100%">
 	<a href="https://tenor.com/view/cat-explosion-gif-22708069">Cat Explosion GIF</a> from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a>
-</div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
