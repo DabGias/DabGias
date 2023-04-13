@@ -16,7 +16,7 @@
 
 ## 👨‍💻 My tech stack
 
-- 🐍 Python: **Pandas, Seaborn, Sklearn and matplotlib**.
+- 🐍 Python: **Pandas, Seaborn, Sklearn and Matplotlib**.
 - ☕ Java: **Spring, JavaFX, JPA and JDBC**;
 - 🐋 **Docker**;
 - 🐧 Linux: **Ubuntu, Oracle Linux and Mint**;
