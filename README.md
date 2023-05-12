@@ -1,4 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DabGias&color=green" alt="Profile views"/></p>
 <h1 align="center">⬇ Welcome to my profile ⬇</h1>
 
 ## 📖 About me
@@ -23,3 +22,7 @@
 - 🐧 Linux: **Ubuntu, Oracle Linux and Mint**;
 - ⚛ **React and React Native**;
 - 🔋 DataBases: **OracleSQL, MySQL and MariaDB**;
+
+<hr>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DabGias&color=green" alt="Profile views"/></p>
