@@ -23,6 +23,4 @@
 - ⚛ **React and React Native**;
 - 🔋 DataBases: **OracleSQL, MySQL and MariaDB**;
 
-<hr>
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DabGias&color=green" alt="Profile views"/></p>
